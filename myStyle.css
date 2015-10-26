@@ -1,0 +1,36 @@
+h1 {
+	font-family: "Julius Sans One", sans-serif;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: "Julius Sans One", sans-serif;
+}
+
+h3 {
+	font-family: "Julius Sans One", sans-serif;
+}
+
+h4 {
+	font-family: Garamond, serif;
+}
+
+a {
+	target="_blank"
+}
+
+p {
+	font-family: Garamond, serif;
+	font-size: 20px;
+}
+
+#main {
+	float: right;
+	margin: 0 30px 0 50px;
+}
+
+.thumbnail {
+	width: 40px;
+	height: 40px;
+	margin: 10px 10px 10px 10px;
+}
