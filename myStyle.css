@@ -1,23 +1,22 @@
 h1 {
-	font-family: "Julius Sans One", sans-serif;
+	font-family: "Bad Script", sans-serif;
 	font-weight: bold;
+	font-size: 36px;
+	clear: right;
 }
 
 h2 {
-	font-family: "Julius Sans One", sans-serif;
+	font-family: "Bad Script", sans-serif;
 }
 
 h3 {
-	font-family: "Julius Sans One", sans-serif;
+	font-family: "Bad Script", sans-serif;
 }
 
 h4 {
 	font-family: Garamond, serif;
 }
 
-a {
-	target="_blank"
-}
 
 p {
 	font-family: Garamond, serif;
